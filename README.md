@@ -9,8 +9,11 @@ If you like our project, please give us a star ⭐ on GitHub for the latest upda
 [2025.11.25] 🎉🎉🎉 We release our survey [Deep Research: A systematic Survey](https://github.com/mangopy/Deep-Research-Survey/blob/main/Deep-Research-Survey.pdf). Thanks to my awesome co-authors🤩. Feel free to contact me if you are interested in this topic and want to discuss me.
 
 # 🎬 Table of Content
-
+> will be updated as soon as possible!
+ 
 # 🤔 Reading List
+> will be updated as soon as possible!
+
 To get started with Deep Research, we recommend the representative and often seminal papers listed below. Reviewing this selection will provide a solid overview of the field.
 
 
