@@ -6,7 +6,7 @@ We will update this repo as soon as possible.
 
 
 # 📣 Latest News
-[2025.11.25] 🎉🎉🎉 We release our survey "Deep Research: A systematic Survey" 🎉🎉🎉. Thanks to my awesome co-authors 🤩. Feel free to contact me if you are interested in this topic and want to discuss me.
+[2025.11.25] 🎉🎉🎉 We release our survey "Deep Research: A systematic Survey". Thanks to my awesome co-authors🤩. Feel free to contact me if you are interested in this topic and want to discuss me.
 
 ❤️ Acknowledgement
 This project benefits from [deepresearch](https://github.com/scienceaix/deepresearch), [Tongyi-DeepResearch](https://github.com/Alibaba-NLP/DeepResearch), [Search Agent](https://github.com/YunjiaXi/Awesome-Search-Agent-Papers). Thanks for their wonderful works and collective efforts.
