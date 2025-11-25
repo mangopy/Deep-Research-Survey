@@ -24,7 +24,7 @@ This project benefits from [deepresearch](https://github.com/scienceaix/deeprese
 Feel free to contact us if there are any problems: zhengliang.shii@gmail.com; shizhl@mail.sdu.edu.cn
 
 
-# 📄 Citation
+# 🥳 Citation
 If you find this work useful, please cite:
 ```txt
 @misc{shi2025deepresearch,
