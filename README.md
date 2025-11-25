@@ -1,8 +1,8 @@
 <h1 align="center">🌐 A Systematic Survey of Deep Research </h1>
 
-If you like our project, please give us a star ⭐ on GitHub for the latest update.
+> We will continuously update this repo.
 
-We will update this repo as soon as possible.
+If you like our project, please give us a star ⭐ on GitHub for the latest update. 
 
 
 # 📣 Latest News
