@@ -6,6 +6,17 @@ If you like our project, please give us a star ⭐ on GitHub for the latest upda
 
 # Overview
 
+This repository contains a systematic collection of research papers on Deep Research (DR). We organize papers across key categories including four key components in DR, widely-used training paradigms in DR and relevant benchmark & resource.
+
+<p align="center">
+  <img src="./asset/components.png" width="90%" alt="Deep Research Overview">
+</p>
+
+For more details, please check our [survey](https://github.com/mangopy/Deep-Research-Survey/blob/main/Deep-Research-Survey.pdf)!
+Our survey collection presents a comprehensive and systematic overview of deep research systems, including a clear roadmap, foundational components, practical implementation techniques, important challenges, and future directions. 
+As the field of deep research continues to evolve rapidly, we are committed to continuously updating this survey to reflect the latest progress in this area
+
+
 # 📣 Latest News
 [2025.11.25] 🎉🎉🎉 We release our survey [Deep Research: A systematic Survey](https://github.com/mangopy/Deep-Research-Survey/blob/main/Deep-Research-Survey.pdf). Thanks to my awesome co-authors🤩. Feel free to contact me if you are interested in this topic and want to discuss me.
 
@@ -82,21 +93,46 @@ To get started with Deep Research, we recommend the representative and often sem
 | Arxiv              | 20 Oct 2025 | Annotation-Efficient Universal Honesty Alignment             | https://arxiv.org/abs/2510.17509     |
 
 ### Retrieval Timing
-| Venue              | Date        | Paper Title                                                  | URL                                  |
-| ------------------ | ----------- | ------------------------------------------------------------ | ------------------------------------ |
-| EMNLP 2023         | 11 May 2023 | Active Retrieval Augmented Generation                        | https://arxiv.org/abs/2305.06983     |
-| ACL 2024           | 18 Feb 2024 | When Do LLMs Need Retrieval Augmentation? Mitigating LLMs' Overconfidence Helps Retrieval Augmentation |  https://aclanthology.org/2024.findings-acl.675/                              |
-| ACL 2024           | 12 Mar 2024 | DRAGIN: Dynamic Retrieval Augmented Generation based on the Information Needs of Large Language Models | https://arxiv.org/pdf/2403.10081     |
-| SIGIR-AP 2025      | 16 Feb 2024 | Retrieve Only When It Needs: Adaptive Retrieval Augmentation for Hallucination Mitigation in Large Language Models | https://arxiv.org/abs/2402.10612     |
-| ACL 2025           | 29 May 2024 | CtrlA: Adaptive Retrieval-Augmented Generation via Inherent Control | https://arxiv.org/abs/2405.18727     |
-| EMNLP 2024         | 18 Jun 2024 | Unified active retrieval for retrieval augmented generation  | https://arxiv.org/abs/2406.12534     |
-| ICLR 2023          | 6 Oct 2022  | ReAct: Synergizing Reasoning and Acting in Language Models   | https://arxiv.org/abs/2210.03629     |
-| ACL 2023           | 20 Dec 2022 | Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions | https://arxiv.org/abs/2212.10509     |
-| ICLR 2024          | 17 Oct 2023 | Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection | https://arxiv.org/abs/2310.11511     |
-| EMNLP 2025         | 9 Jan 2025  | Search-o1: Agentic Search-Enhanced Large Reasoning Models    | https://arxiv.org/abs/2501.05366     |
-| COLM 2025          | 12 Mar 2025 | Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning | https://arxiv.org/abs/2503.09516     |
-| EMNLP 2025         | 22 May 2025 | Search Wisely: Mitigating Sub-optimal Agentic Searches By Reducing Uncertainty | https://arxiv.org/abs/2505.17281     |
-| EMNLP 2025         | 21 May 2025 | StepSearch: Igniting LLMs Search Ability via Step-Wise Proximal Policy Optimization | https://arxiv.org/abs/2505.15107     |
+| Venue              | Date        | Paper Title                                                  | URL                              |
+| ------------------ | ----------- | ------------------------------------------------------------ |----------------------------------|
+| EMNLP 2023         | 11 May 2023 | Active Retrieval Augmented Generation                        | https://arxiv.org/abs/2305.06983 |
+| ACL 2024           | 18 Feb 2024 | When Do LLMs Need Retrieval Augmentation? Mitigating LLMs' Overconfidence Helps Retrieval Augmentation | https://aclanthology.org/2024.findings-acl.675/ |
+| ACL 2024           | 12 Mar 2024 | DRAGIN: Dynamic Retrieval Augmented Generation based on the Information Needs of Large Language Models | https://arxiv.org/pdf/2403.10081 |
+| SIGIR-AP 2025      | 16 Feb 2024 | Retrieve Only When It Needs: Adaptive Retrieval Augmentation for Hallucination Mitigation in Large Language Models | https://arxiv.org/abs/2402.10612 |
+| ACL 2025           | 29 May 2024 | CtrlA: Adaptive Retrieval-Augmented Generation via Inherent Control | https://arxiv.org/abs/2405.18727 |
+| EMNLP 2024         | 18 Jun 2024 | Unified active retrieval for retrieval augmented generation  | https://arxiv.org/abs/2406.12534 |
+| ICLR 2023          | 6 Oct 2022  | ReAct: Synergizing Reasoning and Acting in Language Models   | https://arxiv.org/abs/2210.03629 |
+| ACL 2023           | 20 Dec 2022 | Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions | https://arxiv.org/abs/2212.10509 |
+| ICLR 2024          | 17 Oct 2023 | Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection | https://arxiv.org/abs/2310.11511 |
+| EMNLP 2025         | 9 Jan 2025  | Search-o1: Agentic Search-Enhanced Large Reasoning Models    | https://arxiv.org/abs/2501.05366 |
+| COLM 2025          | 12 Mar 2025 | Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning | https://arxiv.org/abs/2503.09516 |
+| EMNLP 2025         | 22 May 2025 | Search Wisely: Mitigating Sub-optimal Agentic Searches By Reducing Uncertainty | https://arxiv.org/abs/2505.17281 |
+| EMNLP 2025         | 21 May 2025 | StepSearch: Igniting LLMs Search Ability via Step-Wise Proximal Policy Optimization | https://arxiv.org/abs/2505.15107 |
+
+### Information Filtering
+| Venue | Date | Paper Title | URL |
+|:---:|:---:|:---|:---|
+| EMNLP 2024 | 19 Apr 2023 | Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agents | https://arxiv.org/abs/2304.09542 |
+| NAACL 2024 Findings | 30 Jun 2023 | Large Language Models are Effective Text Rankers with Pairwise Ranking Prompting | https://arxiv.org/abs/2306.17563 |
+| ICLR 2024 | 13 Jul 2023 | In-context Autoencoder for Context Compression in a Large Language Model | https://arxiv.org/abs/2307.06945 |
+| ICLR 2024 | 06 Oct 2023 | RECOMP: Improving Retrieval-Augmented LMs with Compression and Selective Augmentation | https://arxiv.org/abs/2310.04408 |
+| ICLR 2024 | 17 Oct 2023 | Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection | https://arxiv.org/abs/2310.11511 |
+| EMNLP 2024 | 14 Nov 2023 | Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models | https://arxiv.org/abs/2311.09210 |
+| ACL 2024 Findings | 19 Feb 2024 | BIDER: Bridging Knowledge Inconsistency for Efficient Retrieval-Augmented LLMs via Key Supporting Evidence | https://arxiv.org/abs/2402.12174 |
+| ACL 2024 | 24 Feb 2024 | ListT5: Listwise Reranking with Fusion-in-Decoder Improves Zero-shot Retrieval | https://arxiv.org/abs/2402.15838 |
+| NeurIPS 2024 | 22 May 2024 | xRAG: Extreme Context Compression for Retrieval-augmented Generation with One Token | https://arxiv.org/abs/2405.13792 |
+| ACL 2024 | 03 Jun 2024 | An Information Bottleneck Perspective for Effective Noise Filtering on Retrieval-Augmented Generation | https://arxiv.org/abs/2406.01549 |
+| ACL 2024 | 04 Jun 2024 | Retaining Key Information under High Compression Ratios: Query-Guided Compressor for LLMs | https://arxiv.org/abs/2406.02376 |
+| WWW 2025 | 17 Jun 2024 | TourRank: Utilizing Large Language Models for Documents Ranking with a Tournament-Inspired Strategy | https://arxiv.org/abs/2406.11678 |
+| ICLR 2025 | 19 Jun 2024 | InstructRAG: Instructing Retrieval-Augmented Generation via Self-Synthesized Rationales | https://arxiv.org/abs/2406.13629 |
+| WWW 2025 | 26 Jun 2024 | Understand What LLM Needs: Dual Preference Alignment for Retrieval-Augmented Generation | https://arxiv.org/abs/2406.18676 |
+| NeurIPS 2024 | 02 Jul 2024 | RankRAG: Unifying Context Ranking with Retrieval-Augmented Generation in LLMs | https://arxiv.org/abs/2407.02485 |
+| WSDM 2025 | 12 Jul 2024 | Context Embeddings for Efficient Answer Generation in RAG | https://arxiv.org/abs/2407.09252 |
+| NeurIPS 2024 | 07 Oct 2024 | TableRAG: Million-Token Table Understanding with Language Model | https://arxiv.org/abs/2410.04739 |
+| WWW 2024 | 05 Nov 2024 | HtmlRAG: HTML is Better Than Plain Text for Modeling Retrieved Knowledge in RAG Systems | https://arxiv.org/abs/2411.02959 |
+| ACL 2025 | 25 Feb 2025 | RankCoT: Refining Knowledge for Retrieval-Augmented Generation through Ranking Chain-of-Thoughts | https://arxiv.org/abs/2502.17888 |
+| EMNLP 2025 | 08 Mar 2025 | Rank-R1: Enhancing Reasoning in LLM-based Document Rerankers via Reinforcement Learning | https://arxiv.org/abs/2503.06034 |
+| EMNLP 2025 Findings | 24 Jul 2025 | Dynamic Context Compression for Efficient RAG | https://arxiv.org/abs/2507.22931v2 |
 
 
 ## Agentic End-to-End Reinforcement Learning
