@@ -14,13 +14,13 @@ If you like our project, please give us a star ⭐ on GitHub for the latest upda
 
  ## 📑 Table of Contents
 - [🌟 Overview](#-overview)
-- [📊 Latest News](#-news)
-- [📚 Reading List](#-resource-list)
-  - [Query Planning](#agent-collaboration)
-  - [Knowledge Acquisition](#agent-construction)
-    - [Knowledge Boundary](#boundary)
+- [📊 Latest News](#-latest-news)
+- [📚 Reading List](#-reading-list)
+  - [Query Planning](#query-planning)
+  - [Knowledge Acquisition](#knowledge-acquisition)
+    - [Knowledge Boundary](#knowledge-boundary)
     - [Retrieval Timing](#timing)
-  - [Agentic End-to-End Reinforcement Learning](#rl)
+  - [Agentic End-to-End Reinforcement Learning](#agentic-end-to-end-reinforcement-learning)
   - [Supervised Fine-tuning](#sft)
   - [Datasets & Benchmarks](#datasets--benchmarks)
  - [Acknowledgement](#ack)
@@ -28,7 +28,7 @@ If you like our project, please give us a star ⭐ on GitHub for the latest upda
  - [Citation](#citation)
 
 
-# 🤔 Reading List
+# 📚 Reading List
 > will be updated as soon as possible!
 
 To get started with Deep Research, we recommend the representative and often seminal papers listed below. Reviewing this selection will provide a solid overview of the field.
