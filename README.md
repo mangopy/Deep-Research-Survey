@@ -5,7 +5,8 @@
 [![Project](https://img.shields.io/badge/PROJECT-Reading--List-2D8CFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mangopy/Deep-Research-Survey)
 [![PDF](https://img.shields.io/badge/PDF-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/mangopy/Deep-Research-Survey/blob/main/Deep-Research-Survey.pdf)
 [![Web](https://img.shields.io/badge/WEB-Quick--Look-6F42C1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://deep-research-survey.github.io/)
-[![Status](https://img.shields.io/badge/STATUS-Active-brightgreen?style=for-the-badge)]
+[![Status](https://img.shields.io/badge/STATUS-Active-brightgreen?style=for-the-badge)]()
+[![Preprints](https://img.shields.io/badge/Preprints.org-202511.2077-blue?style=for-the-badge)](https://www.preprints.org/manuscript/202511.2077/v1)
 
 </div>
 
