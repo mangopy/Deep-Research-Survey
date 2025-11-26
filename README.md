@@ -30,9 +30,7 @@ As the field of deep research continues to evolve rapidly, we are committed to c
 [2025.11.25] 🎉🎉🎉 We release our survey [Deep Research: A systematic Survey](https://github.com/mangopy/Deep-Research-Survey/blob/main/Deep-Research-Survey.pdf). Thanks to my awesome co-authors🤩. Feel free to contact me if you are interested in this topic and want to discuss me.
 
 # 🎬 Table of Content
-> will be updated as soon as possible!
 
- ## 📑 Table of Contents
 - [🌟 Overview](#-overview)
 - [📊 Latest News](#-latest-news)
 - [📚 Reading List](#-reading-list)
