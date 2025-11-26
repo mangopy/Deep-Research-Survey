@@ -2,9 +2,9 @@
 
 <div align="center">
 
-[![Project](https://img.shields.io/badge/PROJECT-Deep%20Research%20Survey-2D8CFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mangopy/Deep-Research-Survey)
+[![Project](https://img.shields.io/badge/PROJECT-Deep%20Research%20Reading-List-2D8CFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mangopy/Deep-Research-Survey)
 [![PDF](https://img.shields.io/badge/PDF-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/mangopy/Deep-Research-Survey/blob/main/Deep-Research-Survey.pdf)
-[![Website](https://img.shields.io/badge/WEB-Deep%20Research%20Survey-6F42C1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://deep-research-survey.github.io/)
+[![Website](https://img.shields.io/badge/WEB-Quick%20Look%206F42C1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://deep-research-survey.github.io/)
 [![Status](https://img.shields.io/badge/STATUS-Active-brightgreen?style=for-the-badge)]()
 
 </div>
