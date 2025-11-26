@@ -133,7 +133,7 @@ To get started with Deep Research, we recommend the representative and often sem
 ## Datasets & Benchmarks
 
 
-#❤️ Acknowledgement
+# ❤️ Acknowledgement
 
 This project benefits from [deepresearch](https://github.com/scienceaix/deepresearch), [Tongyi-DeepResearch](https://github.com/Alibaba-NLP/DeepResearch), [Search Agent](https://github.com/YunjiaXi/Awesome-Search-Agent-Papers), and [Knowledge-Boundary](https://github.com/ShiyuNee/Awesome-LMs-Perception-of-Their-Knowledge-Boundaries-Papers) Thanks for their wonderful works and collective efforts.
 
