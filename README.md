@@ -142,6 +142,53 @@ To get started with Deep Research, we recommend the representative and often sem
 | EMNLP 2025 | 08 Mar 2025 | Rank-R1: Enhancing Reasoning in LLM-based Document Rerankers via Reinforcement Learning | https://arxiv.org/abs/2503.06034 |
 | EMNLP 2025 Findings | 24 Jul 2025 | Dynamic Context Compression for Efficient RAG | https://arxiv.org/abs/2507.22931v2 |
 
+## Memory Management
+
+| Venue | Date | Paper Title | URL |
+|:---:|:---:|:---|:---|
+| ACL 2025 | 01 Jul 2025 | In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents | https://aclanthology.org/2025.acl-long.413/ |
+| arXiv preprint | 13 Aug 2025 | MemGuide: Intent-Driven Memory Selection for Goal-Oriented Multi-Session LLM Agents | https://arxiv.org/abs/2505.20231 |
+| arXiv preprint | 10 Jul 2025 | MIRIX: Multi-Agent Memory System for LLM-Based Agents | https://arxiv.org/abs/2507.07957 |
+| arXiv preprint | 06 Jun 2025 | PersonaAgent: When Large Language Model Agents Meet Personalization at Test Time | https://arxiv.org/abs/2506.06254 |
+| arXiv preprint | 29 Apr 2025 | PaRT: Enhancing Proactive Social Chatbots with Personalized Real-Time Retrieval | https://arxiv.org/abs/2504.20624 |
+| ACL 2025 | 01 Jul 2025 | Recursive Question Understanding for Complex Question Answering over Heterogeneous Personal Data | https://arxiv.org/abs/2505.11900 |
+| arXiv preprint | 23 Jul 2025 | H-MEM: Hierarchical Memory for High-Efficiency Long-Term Reasoning in LLM Agents | https://arxiv.org/abs/2507.22925 |
+| arXiv preprint | 28 Apr 2025 | MemO: Building Production-Ready AI Agents with Scalable Long-Term Memory | https://arxiv.org/abs/2504.19413 |
+| ACL 2025 | 01 Jul 2025 | Memory-augmented Query Reconstruction for LLM-based Knowledge Graph Reasoning | https://aclanthology.org/2025.findings-acl.1234/ |
+| arXiv preprint | 27 Aug 2025 | Nemori: Self-Organizing Agent Memory Inspired by Cognitive Science | https://arxiv.org/abs/2508.03341 |
+| arXiv preprint | 20 Jan 2025 | Zep: A Temporal Knowledge Graph Architecture for Agent Memory | https://arxiv.org/abs/2501.13956 |
+| NeurIPS 2025 | 08 Oct 2025 | Mem: Agentic Memory for LLM Agents | https://arxiv.org/abs/2502.12110 |
+| arXiv preprint | 15 Nov 2023 | Think-in-Memory: Recalling and Post-thinking Enable LLMs with Long-Term Memory | https://arxiv.org/abs/2311.08719 |
+| arXiv preprint | 09 Oct 2025 | Multiple Memory Systems for Enhancing the Long-term Memory of Agents | https://arxiv.org/abs/2508.15294 |
+| EMNLP 2025 | 01 Nov 2025 | Coarse-to-Fine Grounded Memory for LLM Agent Planning | https://aclanthology.org/2025.emnlp-main.659/ |
+| AAAI 2026 | 12 Nov 2025 | ComoRAG: A Cognitive-Inspired Memory-Organized RAG for Stateful Long Narrative Reasoning | https://arxiv.org/abs/2508.10419 |
+| arXiv preprint | 12 Feb 2024 | MemGPT: Towards LLMs as Operating Systems | https://arxiv.org/abs/2310.08560 |
+| arXiv preprint | 03 Jul 2025 | MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent | https://arxiv.org/abs/2507.02259 |
+| arXiv preprint | 17 Jul 2025 | MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents | https://arxiv.org/abs/2506.15841 |
+| arXiv preprint | 09 Oct 2025 | Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory | https://arxiv.org/abs/2508.09736 |
+| arXiv preprint | 25 Aug 2025 | Memento: Fine-tuning LLM Agents without Fine-tuning LLMs | https://arxiv.org/abs/2508.16153 |
+| arXiv preprint | 08 Oct 2025 | Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via RL | https://arxiv.org/abs/2508.19828 |
+| arXiv preprint | 15 Aug 2025 | Learn to Memorize: Optimizing LLM-based Agents with Adaptive Memory Framework | https://arxiv.org/abs/2508.16629 |
+| arXiv preprint | 23 Oct 2025 | MLP Memory: A Retriever-Pretrained Memory for Large Language Models | https://arxiv.org/abs/2508.01832v3 |
+| arXiv preprint | 23 Oct 2025 | Memory Decoder: A Pretrained, Plug-and-Play Memory for Large Language Models | https://arxiv.org/abs/2508.09874 |
+
+
+## Answer Generation
+
+| Venue | Date | Paper Title | URL |
+|:---:|:---:|:---|:---|
+| TPAMI | 13 Mar 2022 | Towards Visual-Prompt Temporal Answer Grounding in Instructional Video | https://ieeexplore.ieee.org/document/10552074 |
+| ACL 2023 | 06 Mar 2023 | LIDA: A Tool for Automatic Generation of Grammar-Agnostic Visualizations and Infographics Using LLMs | https://aclanthology.org/2023.acl-demo.11/ |
+| NeurIPS 2023 | 19 May 2023 | Any-to-Any Generation via Composable Diffusion | https://proceedings.neurips.cc/paper_files/paper/2023/hash/33edf072fe44f19079d66713a1831550-Abstract-Conference.html |
+| TVCG | 03 Nov 2023 | ChartGPT: Leveraging LLMs to Generate Charts from Abstract Natural Language | https://ieeexplore.ieee.org/document/10443572 |
+| ICLR 2025 | 13 Aug 2024 | LongWriter: Unleashing 10,000+ Word Generation from Long-Context LLMs | https://openreview.net/forum?id=kQ5s9Yh0WI |
+| EMNLP 2025 | 07 Jan 2025 | PPTAgent: Generating and Evaluating Presentations Beyond Text-to-Slides | https://aclanthology.org/2025.emnlp-main.728/ |
+| NeurIPS 2025 | 27 May 2025 | Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers | https://arxiv.org/abs/2505.21497 |
+| arXiv | 04 Jun 2025 | SuperWriter: Reflection-Driven Long-Form Generation with LLMs | https://arxiv.org/abs/2506.04180 |
+| EMNLP 2025 | 05 Jul 2025 | PresentAgent: Multimodal Agent for Presentation Video Generation | https://aclanthology.org/2025.emnlp-demos.58/ |
+| arXiv | 24 Aug 2025 | PosterGen: Aesthetic-Aware Paper-to-Poster Generation via Multi-Agent LLMs | https://arxiv.org/abs/2508.17188 |
+| arXiv | 06 Oct 2025 | Paper2Video: Automatic Video Generation from Scientific Papers | https://arxiv.org/abs/2510.05096 |
+
 
 # Training Paradigm
 ## Supervised Fine-tuning
