@@ -175,19 +175,19 @@ To get started with Deep Research, we recommend the representative and often sem
 
 ## Answer Generation
 
-| Venue | Date | Paper Title | URL |
-|:---:|:---:|:---|:---|
+| Venue | Date | Paper Title | URL                                           |
+|:---:|:---:|:---|:----------------------------------------------|
 | TPAMI | 13 Mar 2022 | Towards Visual-Prompt Temporal Answer Grounding in Instructional Video | https://ieeexplore.ieee.org/document/10552074 |
-| ACL 2023 | 06 Mar 2023 | LIDA: A Tool for Automatic Generation of Grammar-Agnostic Visualizations and Infographics Using LLMs | https://aclanthology.org/2023.acl-demo.11/ |
-| NeurIPS 2023 | 19 May 2023 | Any-to-Any Generation via Composable Diffusion | https://proceedings.neurips.cc/paper_files/paper/2023/hash/33edf072fe44f19079d66713a1831550-Abstract-Conference.html |
+| ACL 2023 | 06 Mar 2023 | LIDA: A Tool for Automatic Generation of Grammar-Agnostic Visualizations and Infographics Using LLMs | https://aclanthology.org/2023.acl-demo.11/    |
+| NeurIPS 2023 | 19 May 2023 | Any-to-Any Generation via Composable Diffusion | [NeurIPS paper Link](https://proceedings.neurips.cc/paper_files/paper/2023/hash/33edf072fe44f19079d66713a1831550-Abstract-Conference.html)                          |
 | TVCG | 03 Nov 2023 | ChartGPT: Leveraging LLMs to Generate Charts from Abstract Natural Language | https://ieeexplore.ieee.org/document/10443572 |
-| ICLR 2025 | 13 Aug 2024 | LongWriter: Unleashing 10,000+ Word Generation from Long-Context LLMs | https://openreview.net/forum?id=kQ5s9Yh0WI |
+| ICLR 2025 | 13 Aug 2024 | LongWriter: Unleashing 10,000+ Word Generation from Long-Context LLMs | https://openreview.net/forum?id=kQ5s9Yh0WI    |
 | EMNLP 2025 | 07 Jan 2025 | PPTAgent: Generating and Evaluating Presentations Beyond Text-to-Slides | https://aclanthology.org/2025.emnlp-main.728/ |
-| NeurIPS 2025 | 27 May 2025 | Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers | https://arxiv.org/abs/2505.21497 |
-| arXiv | 04 Jun 2025 | SuperWriter: Reflection-Driven Long-Form Generation with LLMs | https://arxiv.org/abs/2506.04180 |
+| NeurIPS 2025 | 27 May 2025 | Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers | https://arxiv.org/abs/2505.21497              |
+| arXiv | 04 Jun 2025 | SuperWriter: Reflection-Driven Long-Form Generation with LLMs | https://arxiv.org/abs/2506.04180              |
 | EMNLP 2025 | 05 Jul 2025 | PresentAgent: Multimodal Agent for Presentation Video Generation | https://aclanthology.org/2025.emnlp-demos.58/ |
-| arXiv | 24 Aug 2025 | PosterGen: Aesthetic-Aware Paper-to-Poster Generation via Multi-Agent LLMs | https://arxiv.org/abs/2508.17188 |
-| arXiv | 06 Oct 2025 | Paper2Video: Automatic Video Generation from Scientific Papers | https://arxiv.org/abs/2510.05096 |
+| arXiv | 24 Aug 2025 | PosterGen: Aesthetic-Aware Paper-to-Poster Generation via Multi-Agent LLMs | https://arxiv.org/abs/2508.17188              |
+| arXiv | 06 Oct 2025 | Paper2Video: Automatic Video Generation from Scientific Papers | https://arxiv.org/abs/2510.05096              |
 
 
 # Training Paradigm
