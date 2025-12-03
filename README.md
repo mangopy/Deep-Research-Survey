@@ -32,19 +32,24 @@ As the field of deep research continues to evolve rapidly, we are committed to c
 
 # 🎬 Table of Content
 
-- [🌟 Overview](#-overview)
-- [📊 Latest News](#-latest-news)
+- [Overview](#overview)
+- [📣 Latest News](#-latest-news)
+- [🎬 Table of Content](#-table-of-content)
 - [📚 Reading List](#-reading-list)
   - [Query Planning](#query-planning)
   - [Information Acquisition](#information-acquisition)
     - [Knowledge Boundary](#knowledge-boundary)
     - [Retrieval Timing](#retrieval-timing)
+    - [Information Filtering](#information-filtering)
+  - [Memory Management](#memory-management)
+  - [Answer Generation](#answer-generation)
+- [Training Paradigm](#training-paradigm)
+  - [Supervised Fine-tuning](#supervised-fine-tuning)
   - [Agentic End-to-End Reinforcement Learning](#agentic-end-to-end-reinforcement-learning)
-  - [Supervised Fine-tuning](#sft)
-  - [Datasets & Benchmarks](#datasets--benchmarks)
- - [Acknowledgement](#-acknowledgement)
- - [Contact](#-contact)
- - [Citation](#-citation)
+  - [Datasets \& Benchmarks](#datasets--benchmarks)
+- [❤️ Acknowledgement](#️-acknowledgement)
+- [📞 Contact](#-contact)
+- [🥳 Citation](#-citation)
 
 
 # 📚 Reading List
@@ -218,6 +223,7 @@ Most work below focuses on data synthesis, i.e., designing scalable approaches o
 | Arxiv      | 30 Sep 2025  | Planner-R1: Reward Shaping Enables Efficient Agentic RL with Smaller LLMs  | https://arxiv.org/abs/2509.25779 |
 | Arxiv      | 21 May 2025  | ConvSearch-R1: Enhancing Query Reformulation for Conversational Search with Reasoning via RL | https://arxiv.org/abs/2505.15776 |
 | AAAI 2026  | 22 Aug 2025  | OPERA: A RL-Enhanced Orchestrated Planner-Executor Architecture for Multi-Hop Retrieval | https://arxiv.org/abs/2508.16438 |
+| Arxiv      | 18 Aug 2025   | Atom-Searcher: Enhancing Agentic Deep Research via Fine-Grained Atomic Thought Reward| https://arxiv.org/abs/2508.12800 |
 | Arxiv      | 1 Aug 2025   | MAO-ARAG: Multi-Agent Orchestration for Adaptive Retrieval-Augmented Generation | https://arxiv.org/abs/2508.01005 |
 | Arxiv      | 28 Aug 2025  | AI-SearchPlanner: Modular Agentic Search via Pareto-Optimal Multi-Objective RL | https://arxiv.org/abs/2508.20368 |
 | Arxiv      | 7 Mar 2025   | R1-Searcher: Incentivizing the Search Capability in LLMs via RL            | https://arxiv.org/abs/2503.05592 |
