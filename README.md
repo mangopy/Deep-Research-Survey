@@ -216,6 +216,7 @@ Most work below focuses on data synthesis, i.e., designing scalable approaches o
 
 | Venue      | Date         | Paper Title                                                                | URL |
 |------------|--------------|----------------------------------------------------------------------------|-----|
+| Arxiv | 16 Oct 2026 | MultiAgent-OPD: End-to-End Training of Hierarchical Multi-Agent Systems with On-Policy Distillation | https://arxiv.org/abs/2610.23234 |
 | Arxiv      | 30 Sep 2025  | Planner-R1: Reward Shaping Enables Efficient Agentic RL with Smaller LLMs  | https://arxiv.org/abs/2509.25779 |
 | Arxiv      | 21 May 2025  | ConvSearch-R1: Enhancing Query Reformulation for Conversational Search with Reasoning via RL | https://arxiv.org/abs/2505.15776 |
 | AAAI 2026  | 22 Aug 2025  | OPERA: A RL-Enhanced Orchestrated Planner-Executor Architecture for Multi-Hop Retrieval | https://arxiv.org/abs/2508.16438 |
